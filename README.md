@@ -1,4 +1,5 @@
 ## Hi there 👋
+![download](https://github.com/user-attachments/assets/f9591c2e-76b2-4fd1-a6b5-53d9114ce1c7)
 
 <!--
 **victorbao69/victorbao69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
